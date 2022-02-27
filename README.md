@@ -1,8 +1,11 @@
-Elite37 💙 Flutter / Dart 🇧🇷
-💙Equipe de desenvolvedores Flutter.
+💙 Elite37 💙
+Flutter / Dart - Brasil
+
+Equipe de desenvolvedores Flutter.
 🚀Venha fazer parte dessa equipe!
+
 ➡️Em breve Recrutamento de iniciantes⬅️
-{ 👨‍💻🇧🇷 }
+
 
 <!---
 elite37oficial/elite37oficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

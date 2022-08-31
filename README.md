@@ -1,10 +1,9 @@
 💙 Elite37 💙
 Flutter / Dart - Brasil
 
-Equipe de desenvolvedores Flutter.
-🚀Venha fazer parte dessa equipe!
+Comunidade de desenvolvedores Flutter.
+🚀Venha fazer parte!
 
-➡️Em breve Recrutamento de iniciantes⬅️
 
 
 <!---
